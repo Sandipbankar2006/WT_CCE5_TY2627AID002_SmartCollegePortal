@@ -1,0 +1,6 @@
+[
+  { "id": "ai-ds", "name": "Artificial Intelligence & Data Science", "icon": "🤖", "hod": "Dr. Meera Kulkarni", "intake": 120, "description": "Machine learning, data engineering, deep learning and applied analytics with hands-on lab work." },
+  { "id": "comp", "name": "Computer Engineering", "icon": "💻", "hod": "Dr. Rahul Deshmukh", "intake": 180, "description": "Core computing: algorithms, operating systems, networks, databases and software engineering." },
+  { "id": "entc", "name": "Electronics & Telecommunication", "icon": "📡", "hod": "Dr. Sunita Patil", "intake": 120, "description": "Embedded systems, VLSI, signal processing and communication technologies." },
+  { "id": "mech", "name": "Mechanical Engineering", "icon": "⚙️", "hod": "Dr. Anil Joshi", "intake": 120, "description": "Design, thermal systems, manufacturing and robotics with workshop and CAD training." }
+]

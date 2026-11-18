@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "B.Tech in Artificial Intelligence & Data Science", "department": "ai-ds", "duration": "4 Years", "level": "Undergraduate", "seats": 120, "fees": "₹1,20,000 / year" },
+  { "id": 2, "name": "B.Tech in Computer Engineering", "department": "comp", "duration": "4 Years", "level": "Undergraduate", "seats": 180, "fees": "₹1,15,000 / year" },
+  { "id": 3, "name": "B.Tech in Electronics & Telecommunication", "department": "entc", "duration": "4 Years", "level": "Undergraduate", "seats": 120, "fees": "₹1,10,000 / year" },
+  { "id": 4, "name": "B.Tech in Mechanical Engineering", "department": "mech", "duration": "4 Years", "level": "Undergraduate", "seats": 120, "fees": "₹1,05,000 / year" },
+  { "id": 5, "name": "M.Tech in Data Science", "department": "ai-ds", "duration": "2 Years", "level": "Postgraduate", "seats": 24, "fees": "₹1,30,000 / year" },
+  { "id": 6, "name": "M.Tech in Computer Networks", "department": "comp", "duration": "2 Years", "level": "Postgraduate", "seats": 18, "fees": "₹1,25,000 / year" },
+  { "id": 7, "name": "M.Tech in VLSI & Embedded Systems", "department": "entc", "duration": "2 Years", "level": "Postgraduate", "seats": 18, "fees": "₹1,25,000 / year" },
+  { "id": 8, "name": "Diploma in Web Development (Certificate)", "department": "comp", "duration": "6 Months", "level": "Certificate", "seats": 60, "fees": "₹25,000" }
+]

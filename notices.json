@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Unit V CCE-5 Mini Project Presentation", "category": "Exam", "date": "2026-11-20", "important": true, "text": "CCE-5 for Web Technology 1 will be conducted in your practical lab slot. Keep the project and GitHub repository ready." },
+  { "id": 2, "title": "Semester V End-Semester Exam Timetable", "category": "Exam", "date": "2026-11-15", "important": true, "text": "The timetable is available on the examination section notice board. Check your seat number before the exam." },
+  { "id": 3, "title": "Campus Placement Drive: Tech Mahindra", "category": "Placement", "date": "2026-11-12", "important": false, "text": "Eligible final-year students must register with the placement cell by Friday." },
+  { "id": 4, "title": "Annual Technical Fest 'TechNova'", "category": "Event", "date": "2026-11-10", "important": false, "text": "Hackathon, project expo and coding contests. Register your team on the fest desk." },
+  { "id": 5, "title": "Scholarship Application Deadline", "category": "Admin", "date": "2026-11-08", "important": true, "text": "Last date for submitting scholarship forms with documents is 25 November." },
+  { "id": 6, "title": "Library Timing Change", "category": "Admin", "date": "2026-11-05", "important": false, "text": "During exams the library remains open until 9:00 PM on weekdays." }
+]

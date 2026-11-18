@@ -1,0 +1,14 @@
+{
+  "name": "Smart College Portal",
+  "tagline": "Learn. Build. Lead.",
+  "about": "A student-centric engineering college offering undergraduate programmes with modern labs, industry-aligned curriculum and an active placement cell.",
+  "stats": [
+    { "label": "Departments", "value": 4 },
+    { "label": "Courses", "value": 8 },
+    { "label": "Faculty", "value": 8 },
+    { "label": "Students", "value": 2400 }
+  ],
+  "address": "Akurdi, Pune, Maharashtra 411044",
+  "email": "info@smartcollege.example",
+  "phone": "+91 20 0000 0000"
+}

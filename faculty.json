@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Dr. Meera Kulkarni", "department": "ai-ds", "designation": "Professor & HoD", "qualification": "Ph.D. (Machine Learning)", "experience": 18, "email": "meera.k@smartcollege.example", "subjects": ["Machine Learning", "Data Mining"] },
+  { "id": 2, "name": "Prof. Sanjay More", "department": "ai-ds", "designation": "Assistant Professor", "qualification": "M.Tech (Data Science)", "experience": 7, "email": "sanjay.m@smartcollege.example", "subjects": ["Web Technology", "Python"] },
+  { "id": 3, "name": "Dr. Rahul Deshmukh", "department": "comp", "designation": "Professor & HoD", "qualification": "Ph.D. (Computer Networks)", "experience": 20, "email": "rahul.d@smartcollege.example", "subjects": ["Computer Networks", "Operating Systems"] },
+  { "id": 4, "name": "Prof. Neha Sharma", "department": "comp", "designation": "Associate Professor", "qualification": "M.E. (Computer)", "experience": 11, "email": "neha.s@smartcollege.example", "subjects": ["DBMS", "Software Engineering"] },
+  { "id": 5, "name": "Dr. Sunita Patil", "department": "entc", "designation": "Professor & HoD", "qualification": "Ph.D. (VLSI)", "experience": 17, "email": "sunita.p@smartcollege.example", "subjects": ["VLSI Design", "Digital Electronics"] },
+  { "id": 6, "name": "Prof. Amit Gokhale", "department": "entc", "designation": "Assistant Professor", "qualification": "M.Tech (Embedded)", "experience": 6, "email": "amit.g@smartcollege.example", "subjects": ["Microcontrollers", "IoT"] },
+  { "id": 7, "name": "Dr. Anil Joshi", "department": "mech", "designation": "Professor & HoD", "qualification": "Ph.D. (Thermal Engineering)", "experience": 22, "email": "anil.j@smartcollege.example", "subjects": ["Thermodynamics", "Heat Transfer"] },
+  { "id": 8, "name": "Prof. Priya Nair", "department": "mech", "designation": "Assistant Professor", "qualification": "M.Tech (CAD/CAM)", "experience": 8, "email": "priya.n@smartcollege.example", "subjects": ["CAD/CAM", "Robotics"] }
+]
