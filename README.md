@@ -44,10 +44,10 @@ README.md           - documentation
 
 ## Screenshots
 
-![Home](screenshots/home.png)
-![Courses](screenshots/courses.png)
-![Enquiry Form](screenshots/Enquiry.png)
-![Mobile View](screenshots/MobileView.png)
+![Home](home.png)
+![Courses](courses.png)
+![Enquiry Form](Enquiry.png)
+![Mobile View](MobileView.png)
 
 
 ## Technologies
